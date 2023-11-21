@@ -15,7 +15,7 @@ function Header() {
     <NavbarWrapper>
       <Navbar collapseOnSelect expand="lg">
         <Container>
-          <Navbar.Brand href="/main">
+          <Navbar.Brand href="/">
             <img src="logo.svg" alt="logo" className="tbclogo" />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
